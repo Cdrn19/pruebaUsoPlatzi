@@ -1,0 +1,5 @@
+Esto es texto plano para comprobar mis conocimientos en el desarrollo de app
+o front end para llegar algun dia a ser Full Stack y trabajar en un gran 
+proyecto. 
+
+Mi nombre es Carlos Revetti y estoy repasando Git y Github.... 
